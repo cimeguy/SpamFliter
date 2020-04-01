@@ -1,0 +1,539 @@
+=========================================运行次数=50
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+polynomialFail:h24.txt
+No.1
+No.2
+No.3
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.5, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.4
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.5
+No.6
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.5, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.5, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.7
+No.8
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.5, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.9
+No.10
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.5, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.11
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.5, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.12
+No.13
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.5, 'earn': 0.5, 'great': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337}
+
+polynomialFail:s17.txt
+No.14
+No.15
+No.16
+No.17
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.5, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.18
+No.19
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+No.20
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'great': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337}
+
+polynomialFail:s17.txt
+No.21
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.5, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.22
+No.23
+No.24
+No.25
+polynomialFail:h2.txt
+No.26
+No.27
+No.28
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.29
+polynomialFail:h17.txt
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'great': 0.5, 'here': 0.7499999999999999, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.30
+polynomialFail:h17.txt
+No.31
+No.32
+polynomialFail:h17.txt
+No.33
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.5, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.34
+No.35
+polynomialFail:h17.txt
+No.36
+No.37
+No.38
+No.39
+No.40
+No.41
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.5, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.42
+No.43
+No.44
+No.45
+bernoulliFail:s10.txt
+{'ordercializviagra': 0.5, 'online': 0.33333333333333337, 'save': 0.6666666666666667, '0nline': 0.5, 'pharmacy': 0.5, 'noprescription': 0.6666666666666667, 'required': 0.5, 'buy': 0.7499999999999999, 'canadian': 0.5, 'prices': 0.5, 'drugs': 0.5, 'quality': 0.5, 'accept': 0.33333333333333337, 'major': 0.5, 'credit': 0.5, 'cards': 0.5}
+
+bernoulliFail:s13.txt
+{'ordercializviagra': 0.5, 'online': 0.33333333333333337, 'save': 0.6666666666666667, 'noprescription': 0.6666666666666667, 'required': 0.5, 'buy': 0.7499999999999999, 'prices': 0.5, 'drugs': 0.5, 'quality': 0.5, 'accept': 0.33333333333333337, 'major': 0.5, 'credit': 0.5, 'cards': 0.5, 'order': 0.5, 'today': 0.6666666666666667, 'from': 0.5}
+
+No.46
+polynomialFail:h17.txt
+No.47
+polynomialFail:h24.txt
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.48
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.5, 'from': 0.6666666666666667}
+
+bernoulliFail:s20.txt
+{'get': 0.33333333333333337, 'off': 0.5, 'online': 0.33333333333333337, 'watchesstore': 0.5, 'discount': 0.5, 'watches': 0.5, 'all': 0.5, 'famous': 0.5, 'brands': 0.5, 'arolexbvlgari': 0.5, 'bags': 0.5, 'year': 0.5, 'fedex': 0.6666666666666667, 'you': 0.33333333333333337, '100': 0.8888888888888888, 'order': 0.5}
+
+bernoulliFail:s22.txt
+{'get': 0.33333333333333337, 'off': 0.5, 'online': 0.33333333333333337, 'watchesstore': 0.5, 'discount': 0.5, 'watches': 0.5, 'all': 0.5, 'famous': 0.5, 'brands': 0.5, 'arolexbvlgari': 0.5, 'bags': 0.5, 'year': 0.5, 'fedex': 0.6666666666666667, 'you': 0.33333333333333337, '100': 0.8888888888888888, 'order': 0.5}
+
+No.49平均正确率：伯努利：0.9539999999999997多项式：0.9519999999999997
+=========================================运行次数=50
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+polynomialFail:h24.txt
+No.1
+No.2
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.5, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.3
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.5, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.5, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.4
+No.5
+polynomialFail:h17.txt
+No.6
+No.7
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.33333333333333337, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.5, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.8
+No.9
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.5, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.10
+polynomialFail:h17.txt
+No.11
+No.12
+polynomialFail:h17.txt
+No.13
+No.14
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.33333333333333337, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'great': 0.5, 'here': 0.6666666666666667, 'work': 0.5}
+
+polynomialFail:s17.txt
+No.15
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.5, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.16
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.33333333333333337, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+No.17
+No.18
+No.19
+polynomialFail:h24.txt
+No.20
+No.21
+No.22
+No.23
+polynomialFail:h17.txt
+No.24
+No.25
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.5, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.26
+No.27
+polynomialFail:h17.txt
+No.28
+No.29
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.5, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.30
+No.31
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.5, 'ultimate': 0.5, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.32
+No.33
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.6666666666666667, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.34
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'ultimate': 0.5, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.35
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.5, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.36
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.33333333333333337, '129': 0.6666666666666667, 'windows': 0.33333333333333337, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.37
+No.38
+polynomialFail:h17.txt
+No.39
+No.40
+No.41
+polynomialFail:h17.txt
+No.42
+bernoulliFail:s18.txt
+{'codeine': 0.5, 'competitive': 0.5, 'price': 0.5, 'net': 0.5, 'wilson': 0.5, '30mg': 0.5, '156': 0.5, '291': 0.5, 'freeviagra': 0.5, 'pills': 0.6666666666666667, '396': 0.5, '120': 0.7999999999999999, '492': 0.5}
+
+bernoulliFail:s6.txt
+{'oem': 0.5, 'adobe': 0.5, 'microsoft': 0.5, 'softwares': 0.5, 'fast': 0.5, 'order': 0.5, 'download': 0.33333333333333337, 'office': 0.5, 'professional': 0.33333333333333337, 'plus': 0.5, '2007': 0.5, '2010': 0.5, '129': 0.6666666666666667, 'windows': 0.5, 'extended': 0.5}
+
+polynomialFail:s6.txt
+No.43
+polynomialFail:h17.txt
+No.44
+polynomialFail:h24.txt
+No.45
+No.46
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.33333333333333337, 'don': 0.5, 'rude': 0.5, 'let': 0.33333333333333337, 'chance': 0.5, 'you': 0.5, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt
+No.47
+No.48
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+No.49
+bernoulliFail:s17.txt
+{'home': 0.5, 'based': 0.5, 'business': 0.5, 'opportunity': 0.5, 'knocking': 0.5, 'door': 0.5, 'don': 0.5, 'rude': 0.5, 'let': 0.25, 'chance': 0.5, 'you': 0.33333333333333337, 'earn': 0.5, 'here': 0.7499999999999999, 'work': 0.33333333333333337, 'from': 0.6666666666666667}
+
+polynomialFail:s17.txt平均正确率：伯努利：0.9599999999999997多项式：0.9439999999999995
+=========================================运行次数=50
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.1
+No.2
+No.3
+No.4平均正确率：0.9800000000000001
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+No.2
+No.3
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.16666666666666666, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.5, 'from': 0.8333333333333333}
+
+No.4
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+平均正确率：0.96
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0=========================================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+No.2
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.4, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.3
+No.4平均正确率：0.9800000000000001
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+No.2
+No.3
+No.4
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.4, 'don': 0.4, 'rude': 0.4, 'let': 0.16666666666666666, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'great': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666}
+平均正确率：0.9800000000000001
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.16666666666666666, 'chance': 0.4, 'you': 0.5, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.5, 'from': 0.8333333333333333}
+
+No.1
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.4, 'office': 0.4, 'professional': 0.4, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'ultimate': 0.4, 'extended': 0.4}
+
+No.2
+No.3
+No.4
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.4, 'extended': 0.5}
+平均正确率：0.9400000000000001
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.2==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.5, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+
+No.2
+No.3
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.5, 'don': 0.4, 'rude': 0.4, 'let': 0.16666666666666666, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'great': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666}
+
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.4, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+
+No.4平均正确率：0.9199999999999999
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0=========================================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.5, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.5, 'earn': 0.4, 'here': 0.8333333333333333, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.2==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.4, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+
+No.1
+No.2
+No.3
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+
+No.4
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+平均正确率：0.9400000000000001
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+
+No.2
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.5, 'from': 0.8333333333333333}
+
+No.3
+No.4平均正确率：0.96
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.4, 'extended': 0.5}
+
+No.1
+No.2
+No.3
+No.4==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+No.1
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.5, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.5, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.2
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.4, 'don': 0.4, 'rude': 0.4, 'let': 0.09090909090909091, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.9090909090909092, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.3
+No.4平均正确率：0.96
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.16666666666666666, 'don': 0.4, 'rude': 0.4, 'let': 0.16666666666666666, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'great': 0.4, 'here': 0.9090909090909092, 'work': 0.5}
+
+No.1
+No.2
+No.3
+No.4平均正确率：0.9800000000000001
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s17.txt
+{'home': 0.4, 'based': 0.4, 'business': 0.4, 'opportunity': 0.4, 'knocking': 0.4, 'door': 0.4, 'don': 0.4, 'rude': 0.4, 'let': 0.16666666666666666, 'chance': 0.4, 'you': 0.16666666666666666, 'earn': 0.4, 'here': 0.8333333333333333, 'work': 0.16666666666666666, 'from': 0.8333333333333333}
+
+No.1
+No.2
+No.3
+No.4
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+平均正确率：0.96
+==========ID3=======================运行次数=5
+利用TF-IDF算法，每篇文章保留15个特征单词
+检测垃圾邮件的阈值0.9
+
+No.0
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.16666666666666666, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'ultimate': 0.4, 'extended': 0.4}
+
+No.1
+No.2
+No.3
+Fail:s6.txt
+{'oem': 0.4, 'adobe': 0.4, 'microsoft': 0.4, 'softwares': 0.4, 'fast': 0.4, 'order': 0.5, 'download': 0.16666666666666666, 'office': 0.4, 'professional': 0.16666666666666666, 'plus': 0.4, '2007': 0.4, '2010': 0.4, '129': 0.8333333333333333, 'windows': 0.16666666666666666, 'extended': 0.5}
+
+No.4平均正确率：0.96
